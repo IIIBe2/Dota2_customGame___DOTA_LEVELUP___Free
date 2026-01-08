@@ -1,0 +1,19 @@
+{
+  "enabled": false,
+  "interval_seconds": 1.0,
+  "key_to_press": "ё",
+  "mouse_x": 1263,
+  "mouse_y": 415,
+  "search_color": [
+    0,
+    185,
+    118
+  ],
+  "color_tolerance": 20,
+  "region_offsets": {
+    "top_percent": 60,
+    "bottom_percent": 30,
+    "left_percent": 35,
+    "right_percent": 35
+  }
+}
